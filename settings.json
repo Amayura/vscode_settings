@@ -1,13 +1,4 @@
 // 既定の設定を上書きするには、このファイル内に設定を挿入します
 {
-    "sync.gist": "",
-    "sync.lastUpload": "",
-    "sync.autoDownload": false,
-    "sync.autoUpload": false,
-    "sync.lastDownload": "",
-    "sync.version": 251,
-    "sync.showSummary": true,
-    "sync.forceDownload": false,
-    "sync.workspaceSync": false,
-    "sync.anonymousGist": false
+    "vim.useSystemClipboard": true
 }
